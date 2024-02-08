@@ -1,5 +1,5 @@
 <template>
-  <PageContainer>
+  <PageContainer class="h-screen">
     <div class=" max-w-sm sm:max-w-lg mx-auto p-8">
       <Logo />
     </div>
